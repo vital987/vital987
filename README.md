@@ -1,7 +1,6 @@
 # Welcome
 
-## Contact me
-
+## Contact Me
 [![Email](https://img.shields.io/badge/Email-me-234518f?color=8B89CC&logo=protonmail&logoColor=8B89CC&style=for-the-badge)](mailto:apoorvvyavahare65@gmail.com)
 
 ---
@@ -10,16 +9,22 @@
 
 18-Year old learning Cloud, DevOps & Networking.
 
+---
+
 Currently Learning:
 
 * Docker
 * Networking
 * Python
 
+---
+
 Comfortable with:
 
 * Bash
 * Docker
+
+---
 
 [![Vital987 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vital987&show_icons=true&theme=radical)](https://github.com/vital987)
 
