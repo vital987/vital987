@@ -11,7 +11,7 @@
 
 ---
 
-Currently Learning:
+## Currently Learning:
 
 * Docker
 * Networking
@@ -19,7 +19,7 @@ Currently Learning:
 
 ---
 
-Comfortable with:
+## Comfortable with:
 
 * Bash
 * Docker
