@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**vital987/vital987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact me
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-me-234518f?color=8B89CC&logo=protonmail&logoColor=8B89CC&style=for-the-badge)](mailto:apoorvvyavahare65@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+18-Year old learning Cloud, DevOps & Networking.
+
+Currently Learning:
+
+* Docker
+* Networking
+* Python
+
+Comfortable with:
+
+* Bash
+* Docker
+
+[![Vital987 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vital987&show_icons=true&theme=radical)](https://github.com/vital987)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vital987&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
