@@ -1,31 +1,14 @@
-# Welcome
-
-## Contact Me
-[![Email](https://img.shields.io/badge/Email-me-234518f?color=8B89CC&logo=protonmail&logoColor=8B89CC&style=for-the-badge)](mailto:apoorvvyavahare65@gmail.com)
-
----
-
-## About Me
-
-18-Year old learning Cloud, DevOps & Networking.
-
----
-
-## Currently Learning:
-
-* Docker
-* Networking
-* Python
+# :wave: It's [vital987](https://github.com/vital987), welcome to my git!
+### ___About me:___
+* **Goal :** Cloud Architect.
+* **Education :** F.Y.B.Sc. Computer Science.
+* **Current SkillSet :** Bash, Docker, Git, Heroku, Linux.
+* **Languages :** C (Mind Deprecated), Python(Intermediate & learning)
+* **Learning Currently :** Linux Automation, Python, CI/CD
+* **Doing Right Now :** Breathing!.....Sorry!
+<br>
 
 ---
 
-## Comfortable with:
-
-* Bash
-* Docker
-
----
-
-[![Vital987 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vital987&show_icons=true&theme=radical)](https://github.com/vital987)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vital987&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### ___Stats :___
+[![github stats](https://github-readme-stats.vercel.app/api?username=vital987&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/vital987)
