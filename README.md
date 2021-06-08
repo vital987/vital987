@@ -1,7 +1,7 @@
 # :wave: It's [vital987](https://github.com/vital987), welcome to my git!
 ### ___About me:___
 * **Goal :** Cloud Architect.
-* **Education :** F.Y.B.Sc. Computer Science.
+* **Studying :** Bachelors in Computer Science.
 * **Current SkillSet :** Bash, Docker, Git, Heroku, Linux.
 * **Languages :** C (Mind Deprecated), Python(Intermediate & learning)
 * **Learning Currently :** Linux Automation, Python, CI/CD
