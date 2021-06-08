@@ -11,5 +11,7 @@
 ---
 
 ### ___Stats :___
-[![github stats](https://github-readme-stats.vercel.app/api?username=vital987&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/vital987)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vital987&theme=github_dark)](https://github.com/vital987)
+
+<p align="center">
+<a href="https://github.com/vital987"><img src="https://github-readme-stats.vercel.app/api?username=vital987&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"></a>
+<a href="https://github.com/vital987"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vital987&theme=github_dark&icon_color=ec362f&show_icons=true"></a>
