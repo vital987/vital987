@@ -15,8 +15,8 @@
   |:-:|:-:|:-:|
   
 ### **OS/Tools :**
-  | <a href="https://git-scm.com"><img src="https://github.com/vital987/vital987/blob/master/assets/git.svg" width=32 height=32></a> | <a href="https://github.com"><img src="https://github.com/vital987/vital987/blob/master/assets/github.svg" width=32 height=32></a> | <a href="https://docker.com"><img src="https://github.com/vital987/vital987/blob/master/assets/docker.svg" width=32 height=32></a> | <a href="https://ubuntu.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ubuntu.svg" width=32 height=32></a> | <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/vital987/vital987/blob/master/assets/bash.svg" width=32 height=32></a> | <a href="https://code.visualstudio.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/vscode.svg" width=32 height=32></a> |
-  |:-:|:-:|:-:|:-:|:-:|:-:|
+  | <a href="https://git-scm.com"><img src="https://github.com/vital987/vital987/blob/master/assets/git.svg" width=32 height=32></a> | <a href="https://github.com"><img src="https://github.com/vital987/vital987/blob/master/assets/github.svg" width=32 height=32></a> | <a href="https://docker.com"><img src="https://github.com/vital987/vital987/blob/master/assets/docker.svg" width=32 height=32></a> | <a href="https://ubuntu.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ubuntu.svg" width=32 height=32></a> | <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/vital987/vital987/blob/master/assets/bash.svg" width=32 height=32></a> | <a href="https://code.visualstudio.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/vscode.svg" width=32 height=32></a> | <a href="https://nginx.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/nginx.svg" width=32 height=32></a> |
+  |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
   
 ### **Cloud :**
   | <a href="https://heroku.com"><img src="https://github.com/vital987/vital987/blob/master/assets/heroku.svg" width=32 height=32></a> |
@@ -25,8 +25,8 @@
 ---
   
 ## **Learning :**
-  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://circleci.com"><img src="https://github.com/vital987/vital987/blob/master/assets/circleci.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32></a> | <a href="https://nginx.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/nginx.svg" width=32 height=32></a> |
-|:-:|:-:|:-:|:-:|:-:|
+  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://circleci.com"><img src="https://github.com/vital987/vital987/blob/master/assets/circleci.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32></a> |
+|:-:|:-:|:-:|:-:|
 
 ---
 
