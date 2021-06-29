@@ -25,8 +25,8 @@
 ---
   
 ## **Learning :**
-  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://circleci.com"><img src="https://github.com/vital987/vital987/blob/master/assets/circleci.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> |
-|:-:|:-:|:-:|:-:|:-:|
+  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://circleci.com"><img src="https://github.com/vital987/vital987/blob/master/assets/circleci.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
 
