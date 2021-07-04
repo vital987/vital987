@@ -1,10 +1,11 @@
 # <img src="https://github.com/vital987/vital987/blob/master/assets/wave.gif" width=64 height=64 align=center>It's [vital987](https://github.com/vital987), welcome to my git!
 
 ## ___About me:___
-* **Goal🎯 :** Cloud Architect.
-* **Studying📘 :** Bachelors in Computer Science.
-* **Doing Right Now✌️ :** Breathing!.....Sorry!
-* **Advice⚡ :** Explore something new!(I am Serious!)
+* <b><img src="https://github.com/vital987/vital987/raw/master/assets/darts.png" width=17 height=17 align=center>&nbsp;Goal :</b> Cloud Architect
+* <b><img src="https://github.com/vital987/vital987/raw/master/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
+* <b><img src="https://github.com/vital987/vital987/raw/master/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing!.....Sorry!
+* <b><img src="https://github.com/vital987/vital987/raw/master/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 ---
 
@@ -42,6 +43,4 @@
 | <a href="mailto:apoorvvyavahare65@gmail.com"><img src="https://github.com/vital987/vital987/blob/master/assets/gmail.svg" width=32 height=32></a> | <a href="mailto:apoorvvyavahare@pm.me"><img src="https://github.com/vital987/vital987/blob/master/assets/protonmail.svg" width=32 height=32></a> | <a href="https://telegram.dog/anonymous_9870"><img src="https://github.com/vital987/vital987/blob/master/assets/telegram.svg" width=32 height=32></a> | <a href="https://www.instagram.com/apps9870/"><img src="https://github.com/vital987/vital987/blob/master/assets/instagram.svg" width=32 height=32></a> | <a href="https://twitter.com/apps987"><img src="https://github.com/vital987/vital987/blob/master/assets/twitter.svg" width=32 height=32></a> |
 |:-:|:-:|:-:|:-:|:-:|
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+---
