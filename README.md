@@ -45,3 +45,4 @@
 |:-:|:-:|:-:|:-:|:-:|
 
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvital987%2Fvital987&count_bg=%230182FF&title_bg=%23000000&icon=darkreader.svg&icon_color=%230081FF&title=Hits&edge_flat=false)](https://github.com/vital987)
