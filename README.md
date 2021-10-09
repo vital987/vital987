@@ -40,7 +40,7 @@
 
 ---
   
-## ___Let's chat :___
+## ___Contact :___
 | <a href="mailto:apoorvvyavahare65@gmail.com"><img src="https://github.com/vital987/vital987/blob/master/assets/gmail.svg" width=32 height=32></a> | <a href="mailto:apoorvvyavahare@pm.me"><img src="https://github.com/vital987/vital987/blob/master/assets/protonmail.svg" width=32 height=32></a> | <a href="https://telegram.dog/anonymous_9870"><img src="https://github.com/vital987/vital987/blob/master/assets/telegram.svg" width=32 height=32></a> | <a href="https://www.instagram.com/apps9870/"><img src="https://github.com/vital987/vital987/blob/master/assets/instagram.svg" width=32 height=32></a> | <a href="https://twitter.com/apps987"><img src="https://github.com/vital987/vital987/blob/master/assets/twitter.svg" width=32 height=32></a> |
 |:-:|:-:|:-:|:-:|:-:|
 
