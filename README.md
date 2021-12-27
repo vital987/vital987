@@ -5,7 +5,7 @@
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
+<i>❝“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
