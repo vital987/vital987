@@ -5,7 +5,7 @@
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.❞</i>
+<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
