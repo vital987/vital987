@@ -5,7 +5,7 @@
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
