@@ -13,21 +13,21 @@
 ## ___Skill set :___
 
 ### **Languages :**
-  | <a href="https://cprogramming.com"><img src="https://github.com/vital987/vital987/blob/master/assets/c.svg" width=32 height=32 align=center></a><br>Intermediate | <a href="https://cplusplusreference.com"><img src="https://github.com/vital987/vital987/blob/master/assets/cpp.svg" width=32 height=32 align=center></a><br>Beginner | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32 align=center></a><br>Learning |
-  |:-:|:-:|:-:|
+  | <a href="https://cprogramming.com"><img src="https://github.com/vital987/vital987/blob/master/assets/c.svg" width=32 height=32 align=center></a><br>Journeyman | <a href="https://cplusplusreference.com"><img src="https://github.com/vital987/vital987/blob/master/assets/cpp.svg" width=32 height=32 align=center></a><br>Apprentice | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32 align=center></a><br>Journeyman | <a href="https://java.com"><img src="https://github.com/vital987/vital987/blob/master/assets/java.svg" width=32 height=32 align=center></a><br>Novice |
+  |:-:|:-:|:-:|:-:|
   
 ### **OS/Tools :**
   | <a href="https://git-scm.com"><img src="https://github.com/vital987/vital987/blob/master/assets/git.svg" width=32 height=32></a> | <a href="https://github.com"><img src="https://github.com/vital987/vital987/blob/master/assets/github.svg" width=32 height=32></a> | <a href="https://docker.com"><img src="https://github.com/vital987/vital987/blob/master/assets/docker.svg" width=32 height=32></a> | <a href="https://ubuntu.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ubuntu.svg" width=32 height=32></a> | <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/vital987/vital987/blob/master/assets/bash.svg" width=32 height=32></a> | <a href="https://code.visualstudio.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/vscode.svg" width=32 height=32></a> | <a href="https://nginx.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/nginx.svg" width=32 height=32></a> |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
   
 ### **Cloud :**
-  | <a href="https://heroku.com"><img src="https://github.com/vital987/vital987/blob/master/assets/heroku.svg" width=32 height=32></a> |
-  |:-:|
+  | <a href="https://heroku.com"><img src="https://github.com/vital987/vital987/blob/master/assets/heroku.svg" width=32 height=32></a> | <a href="https://aws.amazon.com"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> |
+  |:-:|:-:|:-:|
   
 ---
   
 ## ___Learning :___
-  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://circleci.com"><img src="https://github.com/vital987/vital987/blob/master/assets/circleci.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
+  | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://java.com"><img src="https://github.com/vital987/vital987/blob/master/assets/java.svg" width=32 height=32></a> | <a href="https://jenkins.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/jenkins.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
