@@ -36,7 +36,6 @@
 
 <p align="center">
 <a href="https://github.com/vital987"><img src="https://github-readme-stats.vercel.app/api?username=vital987&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true"></a><br>
-<a href="https://github.com/vital987"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vital987&theme=github_dark&icon_color=ec362f&show_icons=true"></a>
 
 ---
   
