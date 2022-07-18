@@ -27,7 +27,7 @@
 ---
   
 ## ___Certifications :___
-  | <a href="https://www.credly.com/badges/03cd4fc7-9492-4383-ba5b-bdd3c450ba6e/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f7505822-bf4c-4e68-9424-b74ebf50b3ec/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=64 height=64></a> |
+  | <a href="https://www.credly.com/badges/03cd4fc7-9492-4383-ba5b-bdd3c450ba6e/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f7505822-bf4c-4e68-9424-b74ebf50b3ec/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=70 height=70></a> |
 |:-:|:-:|
 
 ---
