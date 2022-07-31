@@ -13,29 +13,29 @@
 
 ## ___Tech stack :___
 
-### **Languages :**
+#### **Languages :**
   | <a href="https://cprogramming.com"><img src="https://github.com/vital987/vital987/blob/master/assets/c.svg" width=32 height=32 align=center></a><br>Journeyman | <a href="https://cplusplusreference.com"><img src="https://github.com/vital987/vital987/blob/master/assets/cpp.svg" width=32 height=32 align=center></a><br>Apprentice | <a href="https://python.org"><img src="https://github.com/vital987/vital987/blob/master/assets/python.svg" width=32 height=32 align=center></a><br>Journeyman | <a href="https://java.com"><img src="https://github.com/vital987/vital987/blob/master/assets/java.svg" width=32 height=32 align=center></a><br>Novice |
   |:-:|:-:|:-:|:-:|
   
-### **OS/Tools :**
+#### **OS/Tools :**
   | <a href="https://linux.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/linux.svg" width=48 height=48></a> | <a href="https://git-scm.com"><img src="https://github.com/vital987/vital987/blob/master/assets/git.svg" width=32 height=32></a> | <a href="https://github.com"><img src="https://github.com/vital987/vital987/blob/master/assets/github.svg" width=32 height=32></a> | <a href="https://docker.com"><img src="https://github.com/vital987/vital987/blob/master/assets/docker.svg" width=32 height=32></a> | <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/vital987/vital987/blob/master/assets/bash.svg" width=32 height=32></a> | <a href="https://code.visualstudio.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/vscode.svg" width=32 height=32></a> | <a href="https://nginx.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/nginx.svg" width=32 height=32></a> |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
   
-### **Cloud :**
+#### **Cloud :**
   | <a href="https://heroku.com"><img src="https://github.com/vital987/vital987/blob/master/assets/heroku.svg" width=32 height=32></a> | <a href="https://aws.amazon.com"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> |
   |:-:|:-:|:-:|
   
 ---
   
-## ___Certifications :___
-  | <a href="https://www.credly.com/badges/03cd4fc7-9492-4383-ba5b-bdd3c450ba6e/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/d96aa450-da23-42d3-8554-e78dc52d33f5/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/sc900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f7505822-bf4c-4e68-9424-b74ebf50b3ec/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f2fa7c1e-ddcd-4ad1-ac26-defd4b33acba/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/ai900.png" width=70 height=70></a> |
-|:-:|:-:|:-:|:-:|
-
----
-  
 ## ___Learning :___
   | <a href="https://aws.amazon.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/aws.svg" width=32 height=32></a> | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> | <a href="https://www.postgresql.org/"><img src="https://github.com/vital987/vital987/blob/master/assets/postgresql.svg" width=32 height=32></a> | <a href="https://java.com"><img src="https://github.com/vital987/vital987/blob/master/assets/java.svg" width=32 height=32></a> | <a href="https://jenkins.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/jenkins.svg" width=32 height=32></a> | <a href="https://kubernetes.io/"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://ansible.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
+---
+  
+## ___Certifications :___
+  | <a href="https://www.credly.com/badges/03cd4fc7-9492-4383-ba5b-bdd3c450ba6e/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/d96aa450-da23-42d3-8554-e78dc52d33f5/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/sc900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f7505822-bf4c-4e68-9424-b74ebf50b3ec/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=70 height=70></a> | <a href="https://www.credly.com/badges/f2fa7c1e-ddcd-4ad1-ac26-defd4b33acba/public_url"><img src="https://github.com/vital987/vital987/raw/master/assets/ai900.png" width=70 height=70></a> |
+|:-:|:-:|:-:|:-:|
 
 ---
 
