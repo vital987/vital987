@@ -1,6 +1,7 @@
-# <img src="https://github.com/vital987/vital987/blob/master/assets/wave.gif" width=64 height=64 align=center>It's [vital987](https://github.com/vital987), welcome to my git!
+# Hi there <img src="https://github.com/vital987/vital987/blob/master/assets/wave.gif" width=64 height=64 align=center>, It's [vital987](https://github.com/vital987)!
 
-## ___About me:___
+<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
+
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/darts.png" width=17 height=17 align=center>&nbsp;Goal :</b> Cloud Architect
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/vital987/vital987/raw/master/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
@@ -46,9 +47,10 @@
 ---
   
 ## ___Contact :___
-| <a href="mailto:apoorvvyavahare65@gmail.com"><img src="https://github.com/vital987/vital987/blob/master/assets/gmail.svg" width=32 height=32></a> | <a href="mailto:apoorvvyavahare@pm.me"><img src="https://github.com/vital987/vital987/blob/master/assets/protonmail.svg" width=32 height=32></a> | <a href="https://telegram.dog/anonymous_9870"><img src="https://github.com/vital987/vital987/blob/master/assets/telegram.svg" width=32 height=32></a> | <a href="https://www.instagram.com/apps9870/"><img src="https://github.com/vital987/vital987/blob/master/assets/instagram.svg" width=32 height=32></a> | <a href="https://twitter.com/apps987"><img src="https://github.com/vital987/vital987/blob/master/assets/twitter.svg" width=32 height=32></a> |
-|:-:|:-:|:-:|:-:|:-:|
+| <a href="mailto:apoorvvyavahare65@gmail.com"><img src="https://github.com/vital987/vital987/blob/master/assets/gmail.svg" width=32 height=32></a> | <a href="mailto:apoorvvyavahare@pm.me"><img src="https://github.com/vital987/vital987/blob/master/assets/protonmail.svg" width=32 height=32></a> | <a href="https://www.linkedin.com/in/apurv-vyavahare-912221245"><img src="https://github.com/vital987/vital987/blob/master/assets/linkedin.svg" width=32 height=32></a> | <a href="https://telegram.dog/anonymous_9870"><img src="https://github.com/vital987/vital987/blob/master/assets/telegram.svg" width=32 height=32></a> | <a href="https://www.instagram.com/apps9870/"><img src="https://github.com/vital987/vital987/blob/master/assets/instagram.svg" width=32 height=32></a> | <a href="https://twitter.com/apps987"><img src="https://github.com/vital987/vital987/blob/master/assets/twitter.svg" width=32 height=32></a> |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvital987%2Fvital987&count_bg=%230182FF&title_bg=%23000000&icon=darkreader.svg&icon_color=%230081FF&title=Hits&edge_flat=false)](https://github.com/vital987)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvital987%2Fvital987&count_bg=%230182FF&title_bg=%23000000&icon_color=%230081FF&title=Hits&edge_flat=false)](https://github.com/vital987)
+
 
