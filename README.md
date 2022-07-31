@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/vital987/vital987/blob/master/assets/wave.gif" width=64 height=64 align=center>, It's [vital987](https://github.com/vital987)!
+# <img src="https://github.com/vital987/vital987/blob/master/assets/wave.gif" width=64 height=64 align=center>Hi there, its [vital987](https://github.com/vital987)!
 
 <img align="right" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
 
