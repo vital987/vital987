@@ -46,7 +46,7 @@
 
 ## 📊 **_Stats :_**
 
-![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
