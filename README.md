@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying :</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 - <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
+<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
