@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying :</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 - <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
+<i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
