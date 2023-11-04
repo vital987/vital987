@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying :</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 - <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
