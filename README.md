@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying :</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 - <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
