@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying :</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 - <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
