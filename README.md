@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 **_Stats :_**
-
-![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 💻 **_Tech stack :_**
 
 #### 🧬 **Languages :**
@@ -47,6 +41,12 @@
 
 | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> | <a href="https://kubernetes.io"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://terraform.io"><img src="https://github.com/vital987/vital987/blob/master/assets/terraformio.svg" width=32 height=32></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/vital987/vital987/blob/master/assets/javascript.svg" width=32 height=32></a> | <a href="https://www.ansible.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
 | :-: | :-: | :-: | :-: | :-: |
+
+---
+
+## 📊 **_Stats :_**
+
+![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
