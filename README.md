@@ -11,6 +11,19 @@
 
 ---
 
+## 🏆 **_Certifications :_**
+
+| <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az400.png" width=70 height=70></a><br>AZ-400 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az104.png" width=70 height=70></a><br>AZ-104 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a><br>AZ-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/sc900.png" width=70 height=70></a><br>SC-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=70 height=70></a><br>DP-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/ai900.png" width=70 height=70></a><br>AI-900 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+---
+
+## 📊 **_Stats :_**
+
+![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 ## 💻 **_Tech stack :_**
 
 #### 🧬 **Languages :**
@@ -34,19 +47,6 @@
 
 | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> | <a href="https://kubernetes.io"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://terraform.io"><img src="https://github.com/vital987/vital987/blob/master/assets/terraformio.svg" width=32 height=32></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/vital987/vital987/blob/master/assets/javascript.svg" width=32 height=32></a> | <a href="https://www.ansible.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
 | :-: | :-: | :-: | :-: | :-: |
-
----
-
-## 🏆 **_Certifications :_**
-
-| <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az400.png" width=70 height=70></a><br>AZ-400 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az104.png" width=70 height=70></a><br>AZ-104 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/az900.png" width=70 height=70></a><br>AZ-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/sc900.png" width=70 height=70></a><br>SC-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/dp900.png" width=70 height=70></a><br>DP-900 | <a href="https://learn.microsoft.com/en-us/users/apurvshantanuvyavahare-5039/transcript/7xn36aw505ww1l6"><img src="https://github.com/vital987/vital987/raw/master/assets/ai900.png" width=70 height=70></a><br>AI-900 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-
----
-
-## 📊 **_Stats :_**
-
-![vital987's Stats](https://github-readme-stats.vercel.app/api?username=vital987&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
