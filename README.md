@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
 
-- <b>🎯&nbsp;Goal </b> Cloud Architect
-- <b>📚&nbsp;Studying :</b> Masters in Computer Application
-- <b>⌛&nbsp;Doing Right Now :</b> Breathing.....Sorry!
-- <b>💡&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
+- <b>🎯&nbsp;Goal: </b> Cloud Architect
+- <b>📚&nbsp;Studying:</b> Masters in Computer Application
+- <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
+- <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
 <i>❝All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
