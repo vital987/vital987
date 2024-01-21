@@ -42,6 +42,7 @@
 | <a href="https://azure.microsoft.com"><img src="https://github.com/vital987/vital987/blob/master/assets/azure.svg" width=32 height=32></a> | <a href="https://kubernetes.io"><img src="https://github.com/vital987/vital987/blob/master/assets/kubernetes.svg" width=32 height=32></a> | <a href="https://terraform.io"><img src="https://github.com/vital987/vital987/blob/master/assets/terraformio.svg" width=32 height=32></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/vital987/vital987/blob/master/assets/javascript.svg" width=32 height=32></a> | <a href="https://www.ansible.com/"><img src="https://github.com/vital987/vital987/blob/master/assets/ansible.svg" width=32 height=32></a> |
 | :-: | :-: | :-: | :-: | :-: |
 
+<!--
 ---
 
 ## 📊 **_Stats :_**
@@ -51,3 +52,4 @@
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvital987%2Fvital987&count_bg=%230182FF&title_bg=%23000000&icon_color=%230081FF&title=Hits&edge_flat=false)](https://github.com/vital987)
+-->
