@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
