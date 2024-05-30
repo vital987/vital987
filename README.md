@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
