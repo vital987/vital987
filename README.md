@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
