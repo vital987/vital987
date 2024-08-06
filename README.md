@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
