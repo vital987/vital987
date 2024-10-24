@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
