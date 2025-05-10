@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
