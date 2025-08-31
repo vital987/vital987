@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
+<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
