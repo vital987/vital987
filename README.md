@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
+<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
