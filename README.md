@@ -6,7 +6,7 @@
 - <b>📚&nbsp;Studying:</b> Masters in Computer Application
 - <b>⌛&nbsp;Doing Right Now:</b> Breathing.....
 - <b>💡&nbsp;Fact:</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
